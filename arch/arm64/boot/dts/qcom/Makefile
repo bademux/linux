@@ -18,6 +18,7 @@ dtb-$(CONFIG_ARCH_QCOM)	+= msm8916-mtp.dtb
 dtb-$(CONFIG_ARCH_QCOM)	+= msm8916-oppo-a51f.dtb
 dtb-$(CONFIG_ARCH_QCOM)	+= msm8916-samsung-a3u-eur.dtb msm8916-samsung-a3u-eur-modem.dtb
 dtb-$(CONFIG_ARCH_QCOM)	+= msm8916-samsung-a5u-eur.dtb msm8916-samsung-a5u-eur-modem.dtb
+dtb-$(CONFIG_ARCH_QCOM)	+= msm8916-samsung-a7-eur.dtb
 dtb-$(CONFIG_ARCH_QCOM)	+= msm8916-samsung-gprimeltecan.dtb
 dtb-$(CONFIG_ARCH_QCOM)	+= msm8916-samsung-j3ltespr.dtb
 dtb-$(CONFIG_ARCH_QCOM)	+= msm8916-samsung-j5nlte.dtb
